@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/GBeauny/end2end_test#readme",
   "dependencies": {
+    "nightwatch": "^1.5.1"
+  },
+  "devDependencies": {
     "chromedriver": "^87.0.7",
     "geckodriver": "^1.21.1",
-    "nightwatch": "^1.5.1",
     "selenium-server": "^3.141.59"
   }
 }
