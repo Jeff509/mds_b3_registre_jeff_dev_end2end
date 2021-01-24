@@ -1,5 +1,5 @@
 {
-  "name": "end2end",
+  "name": "mds_b3_registre_jeff_dev_end2end",
   "version": "1.0.0",
   "description": "Functional testing",
   "main": "nightwatch.conf.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GBeauny/end2end_test.git"
+    "url": "https://github.com/Jeff509/mds_b3_registre_jeff_dev_end2end.git"
   },
   "author": "MDS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GBeauny/end2end_test/issues"
+    "url": "https://github.com/Jeff509/mds_b3_registre_jeff_dev_end2end/issues"
   },
-  "homepage": "https://github.com/GBeauny/end2end_test#readme",
+  "homepage": "https://github.com/Jeff509/mds_b3_registre_jeff_dev_end2end#readme",
   "dependencies": {
     "nightwatch": "^1.5.1"
   },
