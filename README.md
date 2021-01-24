@@ -1,5 +1,9 @@
-Pour lancer les tests :
+# mds_b3_registre_jeff_dev_end2end
 
-Revoir le fichier package.json :
+## Install packages
 
-> ./node_modules/.bin/nightwatch ./tests/uber.js
+npm install
+
+## Launch test
+
+npm test 

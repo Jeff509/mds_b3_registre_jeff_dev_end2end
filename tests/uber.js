@@ -135,7 +135,7 @@ describe('Uber', function() {
       .end();
   });
 
-  test('Rider registratiob souldnt pass', function (browser) {
+  test('Rider registration souldnt pass', function (browser) {
     browser
       .waitForElementVisible('body')
       .useXpath()
