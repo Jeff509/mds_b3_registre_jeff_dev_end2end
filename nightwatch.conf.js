@@ -1,6 +1,6 @@
 nightwatch_config = {
     selenium : {
-      "start_process" : false,
+      "start_process" : true,
       "host" : "hub-cloud.browserstack.com",
       "port" : 80
     },
